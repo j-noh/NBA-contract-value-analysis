@@ -103,8 +103,7 @@ Example: In the 2022–2023 season, Joe Harris carried a large cap hit but produ
 An interactive Tableau dashboard exploring NBA contract value relative to salary cap impact across multiple seasons.
 
 View the dashboard here:
-[Tableau Public Dashboard]([LINK](https://public.tableau.com/views/nba_contract_value_analysis/NBACONTRACTVALUEANALYSIS?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link))
-
+[Tableau Public Dashboard](https://public.tableau.com/views/nba_contract_value_analysis/NBACONTRACTVALUEANALYSIS?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 
 
