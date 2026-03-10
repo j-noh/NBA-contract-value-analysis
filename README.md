@@ -98,4 +98,15 @@ Example: Players on rookie contracts in the 2024–2025 season ranked disproport
 Example: In the 2022–2023 season, Joe Harris carried a large cap hit but produced a relatively low impact-per-minute score, placing him in the bottom value percentile.
 
 
+## Interactive Dashboard
+
+An interactive Tableau dashboard exploring NBA contract value relative to salary cap impact across multiple seasons.
+
+View the dashboard here:
+[Tableau Public Dashboard]([LINK](https://public.tableau.com/views/nba_contract_value_analysis/NBACONTRACTVALUEANALYSIS?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link))
+
+
+
+
+
 
